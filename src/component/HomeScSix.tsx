@@ -56,7 +56,8 @@ export default function HomeScSix() {
                                 </Text>
                                 <img src='/img/down_coma.svg' alt='' className='down_coma' />
                                 <Box className='user_box'>
-                                    <img src='/img/pic01.png' alt='' className='user_photo' />
+                                <img src='/img/pic01.png' alt='' className='user_photo' style={{ borderRadius: '50%', width: '55px', height: "55px" }} />
+
                                     <Box>
                                         <Heading as="h6">Rajesh Kumar</Heading>
                                         <Text>College Student</Text>
@@ -72,7 +73,7 @@ export default function HomeScSix() {
                                 </Text>
                                 <img src='/img/down_coma.svg' alt='' className='down_coma' />
                                 <Box className='user_box'>
-                                    <img src='/img/pic02.png' alt='' className='user_photo' />
+                                    <img src='/img/pic02.png' alt='' className='user_photo' style={{ borderRadius: '50%', width: '55px', height: "60px" }} />
                                     <Box>
                                         <Heading as="h6">Suresh Patel</Heading>
                                         <Text>Salesperson</Text>
