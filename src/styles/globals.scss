@@ -1073,8 +1073,10 @@ button.def_bg_btn, a.def_bg_btn {
     font-size: 20px;
   }
   .user_box .user_photo {
-    width: 50px;
+    width: 50%;
+    border-radius: 50%;
   }
+  
   .accodn_main .chakra-accordion__item .chakra-accordion__button {
     font-size: 16px;
   }
