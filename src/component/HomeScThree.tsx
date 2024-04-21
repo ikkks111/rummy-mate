@@ -96,12 +96,15 @@ export default function HomeScThree() {
                         </div>
                     </Slider>
                 </Box>
-                <Box className='last-btn-pernt'>
-                    <Button as="a" href="https://xjpossmm02.ccverdcfm.com/RummyMateAPK/Rummy_Mate-channel-40784520.apk" target="_blank">
-                        <span>See all Game</span>
-                        <img src='/img/see_all_game.svg' alt='' />
-                    </Button>
-                </Box>
+                <Box className='last-btn-pernt' style={{ display: 'flex', justifyContent: 'center' }}>
+    <a href="https://xjpossmm02.ccverdcfm.com/RummyMateAPK/Rummy_Mate-channel-40784520.apk">
+        <Button>
+            <span>See all Game</span>
+            <img src='/img/see_all_game.svg' alt='' />
+        </Button>
+    </a>
+</Box>
+
             </Box>
             </Box>
             
