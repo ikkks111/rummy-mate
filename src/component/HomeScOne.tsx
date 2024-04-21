@@ -26,7 +26,7 @@ export default function HomeScOne() {
                             </Box>
                         </Button>
                     </Box>
-                    <a href='https://youtu.be/YLt3IHXx_Rc' target='_blank'><img src='/img/sc_one_img01_v2.png' alt='' className='sc_one_img01_v2'/></a>
+                    <a href='https://www.youtube.com/watch?v=YLt3IHXx_Rc&feature=youtu.be' target='_blank'><img src='/img/sc_one_img01_v2.png' alt='' className='sc_one_img01_v2'/></a>
                 </Box>
                 {/* <SimpleGrid columns={12} columnGap={0} rowGap={4}>
                     <GridItem colSpan={[12, 12, 6, 6, 6]} className=' '>
